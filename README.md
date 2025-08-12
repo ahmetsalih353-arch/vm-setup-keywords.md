@@ -14,12 +14,12 @@ Arch Linux VM setup, Debian virtual machine installation, VirtualBox configurati
 
 ---
 
-## 🌐 Backlink Zone  
-- [GitHub Profilim](https://github.com/ahmetsalih353-arch)  
-- [Teknik Vitrin Repom](https://github.com/ahmetsalih353-arch/ahmetsalih-tech-archive)  
-- [Dev.to Yazılarım](https://dev.to/ahmetsalih353)
-- ## 📚 Related Resources | İlgili Kaynaklar
+## 📚 Related Resources | İlgili Kaynaklar  
+- [VM Setup Keywords Repository](https://github.com/ahmetsalih353-arch/vm-setup-keywords.md)  
+- [Technical Archive Showcase](https://github.com/ahmetsalih353-arch/ahmetsalih-tech-archive)
 
-- [VM Setup Keywords Repository](https://github.com/ahmetsalih353-arch/vm-setup-keywords.md)
-+ - [VM Setup Keywords Repository](https://github.com/ahmetsalih353-arch/vm-setup-keywords.md)
-+ - [Technical Archive Showcase](https://github.com/ahmetsalih353-arch/ahmetsalih-tech-archive)
+---
+
+## 🔗 Backlink Zone  
+- [GitHub Profilim](https://github.com/ahmetsalih353-arch)  
+- [Dev.to Yazılarım](https://dev.to/ahmetsalih353)  
